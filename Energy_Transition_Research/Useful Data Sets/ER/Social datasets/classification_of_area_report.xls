@@ -1,0 +1,621 @@
+<table border="2px" id="lusReport1" class="table table-hover table-bordered text-center">
+		<thead style="position: sticky;top: 0;z-index:9;">
+          <tr><th colspan="17" class="tbl_header">
+            <h4>Classification of Land in Each District of Karnataka State/UT for The Year 2022-2023 (Hectare)</h4>
+          </th></tr>
+          <tr>
+            <th rowspan="3" class="tbl_header" scope="col"><b>S.No</b></th>
+              <th rowspan="3" class=" tbl_header" scope="col"><b>District</b></th>
+              <th rowspan="3" class="wrapWords_td tbl_header" scope="col"><b>Reporting Area for LUS (4 + 7 + 11 + 14 + 15)</b></th>
+                                <th colspan="11" class="wrapWords_td tbl_header" scope="col"><b>Classification of reporting Area</b></th>
+                                    <th rowspan="3" class="wrapWords_td tbl_header" scope="col"><b>Net Area Sown</b></th>
+                                    <th rowspan="3" class="wrapWords_td tbl_header" scope="col"><b>Cropped Area</b></th>
+                                <th rowspan="3" class="wrapWords_td tbl_header" scope="col"><b>Area Sown More Than Once (16 - 15)</b></th>
+
+          </tr>
+                    <tr>
+
+                                <th rowspan="2" class="wrapWords_td tbl_header" scope="col">
+                    Forests                                      </th>
+                                        <th colspan="3" class="wrapWords_td tbl_header" scope="col">
+                    Not available for Cultivation                                      </th>
+                                        <th colspan="4" class="wrapWords_td tbl_header" scope="col">
+                    Other Uncultivated Land Excluding Fallow Land                                      </th>
+                                        <th colspan="3" class="wrapWords_td tbl_header" scope="col">
+                    Fallow Land                                      </th>
+                              </tr>
+
+          <tr>
+                            <th class="wrapWords_td tbl_header" scope="col">
+                  Area under Non Agricultural Uses                </th>
+                                <th class="wrapWords_td tbl_header" scope="col">
+                  Barren and Unculturable Land                </th>
+                              <th class="wrapWords_td tbl_header" scope="col"><b>Total
+                (5 To 6)              </b></th>
+                              <th class="wrapWords_td tbl_header" scope="col">
+                  Permanent Pasture and other Grazing Land                </th>
+                                <th class="wrapWords_td tbl_header" scope="col">
+                  Land under Misc. Tree Crops and Groves not included in Net Area Sown                </th>
+                                <th class="wrapWords_td tbl_header" scope="col">
+                  Culturable waste Land                </th>
+                              <th class="wrapWords_td tbl_header" scope="col"><b>Total
+                (8 To 10)              </b></th>
+                              <th class="wrapWords_td tbl_header" scope="col">
+                  Fallow Lands other than current Fallows                </th>
+                                <th class="wrapWords_td tbl_header" scope="col">
+                  Current Fallow                </th>
+                              <th class="wrapWords_td tbl_header" scope="col"><b>Total
+                (12 To 13)              </b></th>
+              
+
+          </tr>
+          <tr>
+            <th class="tbl_header" scope="col"><b>1</b></th>
+              <th class="tbl_header" scope="col"><b>2</b></th>
+              <th class="wrapWords_td tbl_header"><b>3</b></th>
+              <th class="tbl_header" scope="col"><b>4</b></th>
+                              <th class="tbl_header" scope="col"><b>5</b></th>
+                                    <th class="tbl_header" scope="col"><b>6</b></th>
+                                <th class="tbl_header" scope="col"><b>7</b></th>
+                                <th class="tbl_header" scope="col"><b>8</b></th>
+                                    <th class="tbl_header" scope="col"><b>9</b></th>
+                                    <th class="tbl_header" scope="col"><b>10</b></th>
+                                <th class="tbl_header" scope="col"><b>11</b></th>
+                                <th class="tbl_header" scope="col"><b>12</b></th>
+                                    <th class="tbl_header" scope="col"><b>13</b></th>
+                                <th class="tbl_header" scope="col"><b>14</b></th>
+                              <th class="tbl_header" scope="col"><b>15</b></th>
+                                <th class="tbl_header" scope="col"><b>16</b></th>
+                            <th class="tbl_header" scope="col"><b>17</b></th>
+
+          </tr>
+        </thead>
+		<tbody>
+                        <tr>
+                <td class="stickyCol1">1</td>
+                  <td class="text-left stickyCol2">Bagalkot</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">2</td>
+                  <td class="text-left stickyCol2">Bangalore rural</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">3</td>
+                  <td class="text-left stickyCol2">Belgaum</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">4</td>
+                  <td class="text-left stickyCol2">Bellary</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">5</td>
+                  <td class="text-left stickyCol2">Bengaluru urban</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">6</td>
+                  <td class="text-left stickyCol2">Bidar</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">7</td>
+                  <td class="text-left stickyCol2">Bijapur</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">8</td>
+                  <td class="text-left stickyCol2">Chamarajanagar</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">9</td>
+                  <td class="text-left stickyCol2">Chikballapur</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">10</td>
+                  <td class="text-left stickyCol2">Chikmagalur</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">11</td>
+                  <td class="text-left stickyCol2">Chitradurga</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">12</td>
+                  <td class="text-left stickyCol2">Dakshin kannad</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">13</td>
+                  <td class="text-left stickyCol2">Davangere</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">14</td>
+                  <td class="text-left stickyCol2">Dharwad</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">15</td>
+                  <td class="text-left stickyCol2">Gadag</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">16</td>
+                  <td class="text-left stickyCol2">Gulbarga</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">17</td>
+                  <td class="text-left stickyCol2">Hassan</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">18</td>
+                  <td class="text-left stickyCol2">Haveri</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">19</td>
+                  <td class="text-left stickyCol2">Kodagu</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">20</td>
+                  <td class="text-left stickyCol2">Kolar</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">21</td>
+                  <td class="text-left stickyCol2">Koppal</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">22</td>
+                  <td class="text-left stickyCol2">Mandya</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">23</td>
+                  <td class="text-left stickyCol2">Mysore</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">24</td>
+                  <td class="text-left stickyCol2">Raichur</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">25</td>
+                  <td class="text-left stickyCol2">Ramanagara</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">26</td>
+                  <td class="text-left stickyCol2">Shimoga</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">27</td>
+                  <td class="text-left stickyCol2">Tumkur</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">28</td>
+                  <td class="text-left stickyCol2">Udupi</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">29</td>
+                  <td class="text-left stickyCol2">Uttar kannad</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">30</td>
+                  <td class="text-left stickyCol2">Vijayanagar</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+                            <tr>
+                <td class="stickyCol1">31</td>
+                  <td class="text-left stickyCol2">Yadgir</td>
+                  <td>-</td>
+
+                  <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td><td>-</td>                      <td>-</td>
+                    <td>-</td><td>-</td>                      <td>-</td>
+                    
+                                        <td>
+                      -                    </td>
+                                        <td>
+                      -                    </td>
+                                      <td>
+                    -
+                  </td>
+              </tr>
+              
+
+			<tr>
+                <td colspan="2" class="stickyCol3"><b>Total </b></td>
+                <td><b>0</b></td>
+                <td><b>-<b></b></b></td><td><b>-<b></b></b></td><td><b>-<b></b></b></td>                  <td><b>-<b></b></b></td>
+                  <td><b>-<b></b></b></td><td><b>-<b></b></b></td><td><b>-<b></b></b></td>                  <td><b>-<b></b></b></td>
+                  <td><b>-<b></b></b></td><td><b>-<b></b></b></td>                  <td><b>-<b></b></b></td>
+                                      <td><b>
+                      -                    <b></b></b></td>
+                                        <td><b>
+                      -                    <b></b></b></td>
+                    
+                <td><b>
+                  -              <b>  </b></b></td>
+
+            </tr>
+            </tbody>
+
+
+            	</table>

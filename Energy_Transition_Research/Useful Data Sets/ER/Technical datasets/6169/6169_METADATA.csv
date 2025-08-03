@@ -1,0 +1,7 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,"",0,,"","",Country
+YearCode,YearCode,Key Identifier,"",0,,"","",YearCode
+Year,Year,Key Identifier,"",0,,"","",Year
+Crop name,D6169_3,Key Identifier,"",0,,"","","Estimates of yield of major crop names like pulses, cereals, foodgrains etc"
+Season,D6169_4,Key Identifier,"",0,,"","","Estimates of yield in season like Autumn, Winter, Kharif etc"
+Estimates of yield,I6169_5,Numeric Variable,Kg/Ha ( Kilogram per Hectare ),1,sum,Not Applicable,Not Applicable,Estimates of Yield for All India major crops in Kilograms per Hectare

@@ -1,0 +1,51 @@
+
+Datasets (social):
+1. Population (male and female)
+2. Population of SC, ST, OBC (male and female)
+3. Religion-wise population (specifically Muslims) (male and female)
+4. ***Individual categorical SC and ST population (the sub categories of SC and ST)
+5. No. of Agricultural workers
+6. No. of SC, ST, Muslim and OBC Agricultural workers
+7. No. of female agricultural workers
+8. No. of female SC, ST, Muslim and OBC Agricultural workers
+
+9. Employment of the general population
+10. Employment in the agricultural population  (using proportions if data is not available)
+11. Employment of SC, ST, Muslim and OBC population
+12. Employment of female agricultural workers
+13. Employment of female SC, ST, Muslim and OBC Agricultural workers
+14. Literacy of general population
+15. Literacy in the agricultural population
+16. Literacy of SC, ST, Muslim and OBC population
+17. Literacy of female agricultural workers
+18. Literacy of female SC, ST, Muslim and OBC Agricultural workers
+19. Age 5-14 no. of workers
+20. Age 5-14 agricultural Workers
+21. Age 5-14 SC, ST, Muslim and OBC workers
+22. Age 5-14 female agricultural workers
+23. Age 5-14 female SC, ST, Muslim and OBC Agricultural workers
+
+24: Land ownership by SC, ST, OBC and Muslim people
+
+Datasets (technical from 2001 to 2020):
+A. State-wise
+1. Agricultural productivity (percentage of GDP)
+2. Main crop (it's percentage to the other crops: money and produce mass)
+3. Agricultural land area (arable)
+4. Agricultural land area (waste land)
+5. Agricultural land area (forests)
+6. Agricultural diesel consumption
+7. Agricultural electricity consumption
+8. Month-wise rainfall and sunny days
+9. Month-wise harvesting volume
+10. Water-usage by crops (per unit land area or production volume)
+
+I look forward to having quite a fruitful collaboration with you. Please don't hesitate to ask me any question that comes to your mind at any time.
+
+Best Regards,
+Soumya Basu,
+Doctoral Research Student (D-2),
+Dept. of Socio-Environmental Energy Science,
+Graduate School of Energy Science,
+Kyoto University, Japan.
+

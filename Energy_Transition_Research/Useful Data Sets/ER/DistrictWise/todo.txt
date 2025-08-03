@@ -1,0 +1,33 @@
+> find meaning of some of the interesting data points
+
+social
+
+1. i have state & district level data on demographics for all pop (can make gender, literacy & unemployement ratios)
+2. i have state & district level data on demographics of SC & ST (can make gender, literacy & unemployement ratios)
+
+sc & st gender, work & non-work, literacy proportions vs state or national level proportions
+i can make the same ratios combining 1 & 2 like: literacy of SCs in district vs state level literacy of all pop
+
+
+geography
+i have district level land use data
+i will likely get district level data on climate and rainfall
+other than land use per capita, how should this be used?
+
+> top 2 most populated SC and ST caste & tribe | 5 uniform castes that are marginalized across all states
+
+
+this can be found but only population details of individual tribe exists state and district wise
+so how should this be used?
+
+
+_____________________
+
+criteria for identifying the threshold for population of marginalized sub category SC/ST in a particular district
+
+
+Soumya Basu 7:28 PM
+if the district has a majority of this caste - 1
+else 0
+logistic regression
+working age population)

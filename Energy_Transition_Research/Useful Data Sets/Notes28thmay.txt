@@ -1,0 +1,33 @@
+Tasks:
+1. Collect all 24 social datasets.
+- Done but not everything is district wise
+
+2. Employment of female agricultural workers / Total female population
+Done, state-wise only
+
+3. Employment of female SC / Total female SC population
+Done, state & district wise
+
+4. 5-14 SC workers / Total SC workers
+For all population, we have age wise data for specific jobs (agriculture, industry, etc)
+For SC specifically, only subdivisions are: main workers, marginal workers, non-workers
+and non-workers seeking employment (unemployed)
+
+5. What can and cannot be done with available data:
+- Analyze SC literacy & SC employment inequalities state wise (comparing to total pop)
+- Analyze employment of women, children, SC women & SC children state wise
+- Analyze land-ownership of some specific SC castes
+
+Assumptions:
+1. Total workers = 
+main workers + marginal workers for < 3 months + marginal workers for 3-6 months.
+
+2. Agricultural workers = agricultural labourers + cultivators
+
+Things to do next:
+1. All data is scattered throughout multiple excel sheets, needs to be compiled and formatted
+before modelling (should be one of the next tasks).
+Let's have a deadline for 31st/1st to send a complete package.
+
+Additional things we have: 
+1. Muslim agricultural workers (age wise & state wise)

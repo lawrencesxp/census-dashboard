@@ -1,0 +1,19 @@
+State-wise land ownership for SCs
+State-wise land ownership for STs
+State-wise fallow land
+State-wise major crop
+
+
+
+minutes
+https://data.desagri.gov.in/weblus/classification-of-area-report-web
+14, 6
+
+find agricultural intensity
+labourers, cultivators/unit land
+
+m^2
+1. major crops for states
+2. waste land/ total agri land
+3. average of land owned by SC, ST / no of SC, ST per state.
+

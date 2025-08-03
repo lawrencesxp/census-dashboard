@@ -1,0 +1,10 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,"",0,"","","",Country
+YearCode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+Period from,D6174_3,Key Identifier,"",,"","","",Period from
+Period to,D6174_4,Key Identifier,"",,"","","",Period to
+Type of Season,D6174_5,Key Identifier,"",,"","","","Type of season like monsoon ,post-monsoon, winter, pre-monsoon"
+Actual rainfall,I6174_6,Numeric Variable,mm ( Millimeter ),1,sum,Not Applicable,Not Applicable,Actual rainfall in Millimeters
+Normal rainfall,I6174_7,Numeric Variable,mm ( Millimeter ),1,sum,Not Applicable,Not Applicable,Normal rainfall in Millimeters
+Percentage of departure rainfall,I6174_8,Numeric Variable,mm ( Millimeter ),1,avg,Not Applicable,Not Applicable,Percentage departure of realized rainfall from normal rainfall in Millimeters ( % )
